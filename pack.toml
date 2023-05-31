@@ -1,0 +1,13 @@
+name = "Top Mods of Minecraft 1.19"
+author = "DrgnFireYellow and SuperZekes"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2f0c23bd031251f1f337da2cd4e6c5bbc51dbddd76fea9b44c6aebce8ab07414"
+
+[versions]
+forge = "43.2.13"
+minecraft = "1.19.2"

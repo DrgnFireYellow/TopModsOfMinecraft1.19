@@ -1,0 +1,13 @@
+name = "Supplementaries"
+filename = "supplementaries-1.19.2-2.3.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/tkdPYAKI/supplementaries-1.19.2-2.3.14.jar"
+hash-format = "sha1"
+hash = "0ef13804ce0c3efa6d42d2665637fe1f715e3609"
+
+[update]
+[update.modrinth]
+mod-id = "fFEIiSDQ"
+version = "tkdPYAKI"
